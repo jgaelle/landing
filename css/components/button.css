@@ -1,0 +1,6 @@
+.banner > a {
+  padding: 8px;
+  border-radius: 15px;
+  color: white;
+  background-color: blue;
+}
